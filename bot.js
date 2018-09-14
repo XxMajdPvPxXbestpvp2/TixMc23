@@ -1,3 +1,4 @@
+const client = new Discord.Client();
 
 const clans = {};
 const system = {};
