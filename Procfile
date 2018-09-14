@@ -1,4 +1,1 @@
 worker: node bot.js
- 
-
- 
