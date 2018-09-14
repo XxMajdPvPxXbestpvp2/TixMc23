@@ -1,6 +1,8 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
+var prefix = "البرفكس";
+
 const clans = {};
 const system = {};
 const level = {};
