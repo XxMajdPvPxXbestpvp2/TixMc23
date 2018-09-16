@@ -8,7 +8,7 @@ const clans = {};
 const system = {};
 const level = {};
 
-hero.on('message',async message => {
+client.on('message',async message => {
   if(message.author.bot) return;
   if(message.channel.type === 'dm') return;
 
