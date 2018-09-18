@@ -486,5 +486,5 @@ client.on('message',async message => {
   
 client.login(process.env.BOT_TOKEN);
 
-بعدين حطو التوكن في الخادم
+   
 
