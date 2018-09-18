@@ -482,19 +482,9 @@ client.on('message',async message => {
   }
 });
 
-// - Copyright (c) 2018 Copyright xYouseeF All Rights Reserved.
-// - Copyright (c) 2018 Copyright xYouseeF All Rights Reserved.
-// - Copyright (c) 2018 Copyright xYouseeF All Rights Reserved.
-// - Copyright (c) 2018 Copyright xYouseeF All Rights Reserved.
-// - Copyright (c) 2018 Copyright xYouseeF All Rights Reserved.
-// - Copyright (c) 2018 Copyright xYouseeF All Rights Reserved.
-// - Copyright (c) 2018 Copyright xYouseeF All Rights Reserved.
-// - Copyright (c) 2018 Copyright xYouseeF All Rights Reserved.
-// - Copyright (c) 2018 Copyright xYouseeF All Rights Reserved.
-// - Copyright (c) 2018 Copyright xYouseeF All Rights Reserved.
-// - Copyright (c) 2018 Copyright xYouseeF All Rights Reserved.
-
-
-
+  
+  
 client.login(process.env.BOT_TOKEN);
+
+بعدين حطو التوكن في الخادم
 
